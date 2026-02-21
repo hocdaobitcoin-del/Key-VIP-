@@ -1,0 +1,19 @@
+{
+  "vip_keys": [
+    {
+      "device_id": "DV_c1baa61b5a334ecf",
+      "ten_key": "ccc",
+      "time": "30"
+    },
+    {
+      "device_id": "DV_112233445566",
+      "ten_key": "pro7",
+      "time": "7"
+    },
+    {
+      "device_id": "DV_abcdef123456",
+      "ten_key": "yearvip",
+      "time": "365"
+    }
+  ]
+}
